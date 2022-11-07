@@ -1,0 +1,6 @@
+#My 1st project in Python
+#Hello World
+
+print("Hello World")
+#or
+print('Hello World')
